@@ -29,7 +29,7 @@ categories = ["web-programming"]
 bytes = "1"
 http = "0.2"
 pin-project-lite = "0.2"
-tokio = "1"
+tokio = "1.4"
 tokio-util = { version = "0.6", features = ["io"] }
 
 [dev-dependencies]

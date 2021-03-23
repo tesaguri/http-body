@@ -1,6 +1,7 @@
 # Unreleased
 
 - Add `AsyncReadBody` which turns an `AsyncRead` into a `Body`.
+- Add `ReadBody` which turns an `io::Read` into a `Body`.
 
 # 0.4.1 (March 18, 2021)
 
