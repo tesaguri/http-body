@@ -1,6 +1,6 @@
 # Unreleased
 
-Nothing.
+- Add `AsyncReadBody` which turns an `AsyncRead` into a `Body`.
 
 # 0.4.1 (March 18, 2021)
 

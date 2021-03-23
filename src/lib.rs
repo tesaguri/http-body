@@ -17,6 +17,7 @@ mod empty;
 mod next;
 mod size_hint;
 
+pub mod adapters;
 pub mod combinators;
 
 pub use self::empty::Empty;
